@@ -1,6 +1,6 @@
 # Minesweeper
 
 After downloading the files, type the following command in your terminal to run the game:
-<rep>
+<pre>
   java Startup
-</rep>
+</pre>
